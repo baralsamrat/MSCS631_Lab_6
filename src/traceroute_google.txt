@@ -1,0 +1,58 @@
+Traceroute to google.com (142.250.113.113), 30 hops max:
+  1    rtt=3 ms    192.168.1.1
+  1    rtt=2 ms    192.168.1.1
+  2    rtt=3 ms    35.146.198.61
+  2    rtt=2 ms    35.146.198.61
+  3    rtt=11 ms    35.146.198.61
+  3    rtt=14 ms    35.146.198.61
+  4    rtt=17 ms    35.146.198.61
+  4    rtt=19 ms    35.146.198.61
+  5    *        *        *    Request timed out.
+  5    *        *        *    Request timed out.
+  6    rtt=17 ms    35.146.198.61
+  6    rtt=14 ms    35.146.198.61
+  7    rtt=22 ms    35.146.198.61
+  7    rtt=21 ms    35.146.198.61
+  8    rtt=21 ms    35.146.198.61
+  8    rtt=35 ms    35.146.198.61
+  9    rtt=21 ms    169.254.250.250
+  9    rtt=20 ms    169.254.250.250
+  10    rtt=24 ms    24.164.209.122
+  10    rtt=20 ms    24.164.209.122
+  11    rtt=40 ms    131.150.63.9
+  11    rtt=38 ms    131.150.63.9
+  12    rtt=39 ms    108.170.225.149
+  12    rtt=41 ms    108.170.225.149
+  13    rtt=29 ms    142.251.66.192
+  13    rtt=20 ms    142.251.66.192
+  14    rtt=37 ms    108.170.228.73
+  14    *        *        *    Request timed out.
+  15    *        *        *    Request timed out.
+  15    *        *        *    Request timed out.
+  16    rtt=43 ms    209.85.252.234
+  16    rtt=41 ms    209.85.252.234
+  17    rtt=38 ms    142.250.224.21
+  17    rtt=40 ms    142.250.224.21
+  18    *        *        *    Request timed out.
+  18    *        *        *    Request timed out.
+  19    *        *        *    Request timed out.
+  19    *        *        *    Request timed out.
+  20    *        *        *    Request timed out.
+  20    *        *        *    Request timed out.
+  21    *        *        *    Request timed out.
+  21    *        *        *    Request timed out.
+  22    *        *        *    Request timed out.
+  22    *        *        *    Request timed out.
+  23    *        *        *    Request timed out.
+  23    *        *        *    Request timed out.
+  24    *        *        *    Request timed out.
+  24    *        *        *    Request timed out.
+  25    *        *        *    Request timed out.
+  25    *        *        *    Request timed out.
+  26    *        *        *    Request timed out.
+  26    *        *        *    Request timed out.
+  27    *        *        *    Request timed out.
+  27    *        *        *    Request timed out.
+  28    *        *        *    Request timed out.
+  28    *        *        *    Request timed out.
+  29    rtt=39 ms    142.250.113.113
